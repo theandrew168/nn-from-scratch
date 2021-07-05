@@ -8,8 +8,6 @@ from tqdm import tqdm
 
 
 MNIST_URLS = [
-    'https://raw.githubusercontent.com/makeyourownneuralnetwork/makeyourownneuralnetwork/master/mnist_dataset/mnist_train_100.csv',
-    'https://raw.githubusercontent.com/makeyourownneuralnetwork/makeyourownneuralnetwork/master/mnist_dataset/mnist_test_10.csv',
     'http://www.pjreddie.com/media/files/mnist_train.csv',
     'http://www.pjreddie.com/media/files/mnist_test.csv',
 ]
